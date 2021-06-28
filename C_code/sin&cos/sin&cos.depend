@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621757739 source:c:\users\norman\sin&cos\main.c
+	<stdio.h>
+	<math.h>
+
+1624600538 source:c:\users\norman\c_code\sin&cos\main.c
+	<stdio.h>
+	<math.h>
+

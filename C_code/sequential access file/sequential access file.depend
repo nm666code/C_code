@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623850853 source:c:\users\norman\c_code\sequential access file\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1622488585 source:c:\users\norman\piglatin\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1622489061 source:c:\users\norman\c_code\piglatin\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+

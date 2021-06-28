@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623255737 source:c:\users\norman\c_code\testpiglatin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623857258 source:c:\users\norman\c_code\random access file\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

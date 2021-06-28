@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1624365251 source:d:\norman chen\codeblockproject\chinaid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1624604164 source:c:\users\norman\c_code\chinaid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+

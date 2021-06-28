@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616172459 source:c:\users\norman\teststrtok\main.c
+	<stdio.h>
+	<string.h>
+
